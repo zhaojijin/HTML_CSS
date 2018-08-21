@@ -1,2 +1,2 @@
-# HTML_CSS
-HTML_CSS学习
+# HTML+CSS
+HTML+CSS个人学习笔记
